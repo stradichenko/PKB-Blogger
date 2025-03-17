@@ -5,7 +5,7 @@ A project for seamless CMS-blog and information generation (initially in Neovim 
 
 ## Introduction 
 This is a 2 part project that tries to create a workflow for static site content generation with a self-made Content Management System (CMS) using Personal Knowledge Base (PKB) principles.
-Firstly, is only thought as a CMS for Neovim to generate in HUGO a PKM database as a static website; Secondly, using a custom [template](https://github.com/Stradichenko/PKM-theme) with network tools for knowledge integration; 
+Firstly, is only thought as a CMS for Neovim to generate in HUGO a PKM database as a static website; Secondly, using a custom [template](https://github.com/stradichenko/PKM-theme) with network tools for knowledge integration; 
 
 This project is separates into two components:
 **CMS**: which provides all the context needed for comfortable content creation of the blog; 
